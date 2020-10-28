@@ -12,3 +12,6 @@ Encoding: UTF-8
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
  hello world
+#slack
+reprex(venue="r")
+#> Error in reprex(venue = "r"): <U+00FB><d3><d0>"reprex"<d5><e2><U+00B8><f6><U+00BA><U+00AF><ca><fd>
